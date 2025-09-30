@@ -40,6 +40,6 @@ if answer == "A" or answer == "B":
 	print("you are finally done with the quiz! Are you ready for your result")
 input("")
 if indoors > outdoors:
-	print("You are a indoors person!!!!")
+		print("You are a indoors person!!!!")
 if outdoors > indoors:
 	print("you are a outdoors person!!!")
