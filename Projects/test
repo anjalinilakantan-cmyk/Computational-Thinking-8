@@ -1,0 +1,13 @@
+
+# Section 4: Game Loop
+window.listen()
+timer = 0
+while True:
+      time.sleep(0.1)
+      timer += 1 
+      
+	  if timer > 200:
+          s1.write ("I give up")
+          
+	window.update()
+    # TODO - code for automatic actions
